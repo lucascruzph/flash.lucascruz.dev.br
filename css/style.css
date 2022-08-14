@@ -279,6 +279,13 @@ a{
     
 }*/
 
+.img-450px{
+    max-width: 450px;
+}
+.img-300px{
+    max-width: 300px;
+}
+
 .footer{
     height: 50px;
     background-color:rgb(40,40,40);
